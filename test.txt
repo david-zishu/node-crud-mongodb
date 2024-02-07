@@ -1,0 +1,5 @@
+  How Mongoose Work
+----------------------------
+Schema - Define the Structure
+  Schema - Model
+  Using Model we do CRUD operation
